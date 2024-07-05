@@ -1,6 +1,9 @@
-# 📊 Amazon Sales Analysis
+# 📊 Amazon Sales Analysis  
 
-## 📄 Project Overview
+
+## 📄 ![AZ logo](https://github.com/Sourav-Pattanayak/Amazon-Sales-Report/assets/124489158/8681b82b-72ee-4fac-8ca3-32964fa9cce3)
+
+Project Overview
 
 Welcome to the Amazon Sales Analysis project! This project provides a detailed analysis of Amazon sales for the year 2022, covering various aspects such as sales performance, order statuses, product categories, fulfillment methods, and geographical insights. The insights gained from this analysis can help in understanding sales trends, identifying top-performing products, and improving overall business strategies.
 
