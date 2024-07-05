@@ -10,7 +10,7 @@ Welcome to the Amazon Sales Analysis project! This project provides a detailed a
 ### This project was completed as part of the InnoByte Services internship programme.
 
 
-![innobyte_services_logo](https://github.com/Sourav-Pattanayak/Amazon-Sales-Report/assets/124489158/e78c1dde-265a-43e2-94ab-cad98a00d215)
+![innobyte_services_cover](https://github.com/Sourav-Pattanayak/Amazon-Sales-Report/assets/124489158/0554afac-ace4-4b2c-94cb-9272b6282fd6)
 
 
 ## 📈 Key Insights
