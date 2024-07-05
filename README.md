@@ -1,7 +1,7 @@
 # 📊 Amazon Sales Analysis  
 
 
-## 📄 ![AZ logo](https://github.com/Sourav-Pattanayak/Amazon-Sales-Report/assets/124489158/8681b82b-72ee-4fac-8ca3-32964fa9cce3)
+##  ![AZ logo](https://github.com/Sourav-Pattanayak/Amazon-Sales-Report/assets/124489158/8681b82b-72ee-4fac-8ca3-32964fa9cce3)
 
 Project Overview
 
