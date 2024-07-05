@@ -32,17 +32,17 @@ This project was completed as part of the InnoByte Services internship programme
 
 ## 📊 Sample Visualizations
 
-![Sales Trend by Month]
-
 
 ![Sales over time](https://github.com/Sourav-Pattanayak/Amazon-Sales-Report/assets/124489158/8dc42d87-1eb3-4d8a-9975-0d2b97a26a27)
 
 *Figure 1: Monthly Sales Growth*
 
-![Top Product Categories](path/to/your/top_product_categories_chart.png)
+![Sal![F2](https://github.com/Sourav-Pattanayak/Amazon-Sales-Report/assets/124489158/c182a74b-7d35-4363-a279-a4426a1e3301)
+es by State](path/to/your/sales_by_state_chart.png)
+
 *Figure 2: Top-Selling Product Categories*
 
-![Sales by State](path/to/your/sales_by_state_chart.png)
+
 *Figure 3: Sales Distribution by State*
 
 ## 📋 Usage
