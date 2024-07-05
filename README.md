@@ -37,10 +37,12 @@ This project was completed as part of the InnoByte Services internship programme
 
 *Figure 1: Monthly Sales Growth*
 
-![Sal![F2](https://github.com/Sourav-Pattanayak/Amazon-Sales-Report/assets/124489158/c182a74b-7d35-4363-a279-a4426a1e3301)
-es by State](path/to/your/sales_by_state_chart.png)
+![F2](https://github.com/Sourav-Pattanayak/Amazon-Sales-Report/assets/124489158/bf82b41e-a78d-4b0b-a325-8495e23c1faf)
 
 *Figure 2: Top-Selling Product Categories*
+
+
+
 
 
 *Figure 3: Sales Distribution by State*
