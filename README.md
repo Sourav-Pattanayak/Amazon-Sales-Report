@@ -7,7 +7,7 @@ Project Overview
 
 Welcome to the Amazon Sales Analysis project! This project provides a detailed analysis of Amazon sales for the year 2022, covering various aspects such as sales performance, order statuses, product categories, fulfillment methods, and geographical insights. The insights gained from this analysis can help in understanding sales trends, identifying top-performing products, and improving overall business strategies.
 
-## This project was completed as part of the InnoByte Services internship programme.
+### This project was completed as part of the InnoByte Services internship programme.
 
 ## 📈 Key Insights
 
