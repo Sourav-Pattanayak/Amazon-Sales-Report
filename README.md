@@ -25,7 +25,7 @@ Welcome to the Amazon Sales Analysis project! This project provides a detailed a
 
 - **Data Analysis**: Python, Pandas
 - **Visualization**: Power BI,DAX
-- **Reporting**: Power BI(PBIX), Analysis Report
+- **Reporting**: Power BI(.pbix), Analysis Report
 
 ## 📂 Project Structure
 
