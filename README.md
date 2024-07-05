@@ -9,6 +9,9 @@ Welcome to the Amazon Sales Analysis project! This project provides a detailed a
 
 ### This project was completed as part of the InnoByte Services internship programme.
 
+![innobyte_services_logo](https://github.com/Sourav-Pattanayak/Amazon-Sales-Report/assets/124489158/a8726ac7-df61-4383-8f1b-97967b099ffa)
+
+
 ## 📈 Key Insights
 
 - **Monthly Sales Growth**: Analysis of monthly sales data to identify trends and growth patterns.
