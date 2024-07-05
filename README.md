@@ -39,42 +39,10 @@ This project was completed as part of the InnoByte Services internship programme
 
 ![F2](https://github.com/Sourav-Pattanayak/Amazon-Sales-Report/assets/124489158/bf82b41e-a78d-4b0b-a325-8495e23c1faf)
 
-*Figure 2: Top-Selling Product Categories*
+*Figure 2: Saleds Amount by Product Size*
 
-
-
-
+![F3](https://github.com/Sourav-Pattanayak/Amazon-Sales-Report/assets/124489158/566abdc7-e513-4bd9-bf1f-ca0f20acd484)
 
 *Figure 3: Sales Distribution by State*
 
-## 📋 Usage
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/amazon-sales-analysis.git
-   ```
-2. **Navigate to the Project Directory**:
-   ```bash
-   cd amazon-sales-analysis
-   ```
-3. **Install the Required Packages**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. **Run the Jupyter Notebook**:
-   Open the Jupyter notebook in your preferred environment to view the analysis codes and run them.
-
-## 📧 Contact
-
-For any queries or feedback, feel free to reach out:
-
-- **Email**: [innobyteservices@gmail.com](mailto:innobyteservices@gmail.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-
-## 📅 Submission
-
-Please submit your project using the following link: [Task Submission](https://forms.gle/b2nJJmB8QkpsZr2z6). The last date for submission is **10th July**.
-
----
-
-Feel free to customize this README file as needed. Make sure to replace placeholder paths and links with actual ones relevant to your project.
