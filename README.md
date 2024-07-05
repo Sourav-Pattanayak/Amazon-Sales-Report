@@ -34,7 +34,8 @@ This project was completed as part of the InnoByte Services internship programme
 
 ![Sales Trend by Month]
 
-![F1](https://github.com/Sourav-Pattanayak/Amazon-Sales-Report/assets/124489158/332039d8-0865-4909-bd9d-1ccb9f94d87b)
+
+![Sales over time](https://github.com/Sourav-Pattanayak/Amazon-Sales-Report/assets/124489158/8dc42d87-1eb3-4d8a-9975-0d2b97a26a27)
 
 *Figure 1: Monthly Sales Growth*
 
